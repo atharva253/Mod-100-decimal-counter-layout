@@ -6,7 +6,7 @@
 
 ## D Flip Flop Schematic (Pass Transistor Logic):
 
-![image](https://user-images.githubusercontent.com/65544914/117485084-99285300-af85-11eb-9035-f13b7e565f0b.png)
+![image](https://user-images.githubusercontent.com/65544914/117485836-7ea2a980-af86-11eb-82c8-56b8e1589082.png)
 
 ## Block-level Schematic:
 
